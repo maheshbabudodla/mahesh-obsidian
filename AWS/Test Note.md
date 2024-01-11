@@ -1,4 +1,4 @@
-This is for testing purpose in the github 
+This is for testing purpose in the Github 
 
 - bullet one
 - bullet two 
@@ -11,5 +11,7 @@ this is code block
 this is end the code block 
 ```
 
-`this is code just for fun 
 
+This is code just for fun 
+
+![[Pasted image 20240112003617.png]]
